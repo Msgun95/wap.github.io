@@ -44,10 +44,11 @@ th {
 }
 
 
-#order-maker button {
+#order-maker {
  
-  background-color: rosybrown;
+  
   color: white;
+  text-align: right;
    
 
 }
