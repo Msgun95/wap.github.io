@@ -1,0 +1,64 @@
+body {
+    border: 1px solid rgb(81, 71, 71);
+    margin-left: 50px; 
+    margin-right: 150px;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+table, th, td {
+  border: 1px solid rgb(71, 59, 59);
+}
+th, td {
+  padding: 8px;
+  text-align: left;
+}
+th {
+  background-color: rgb(158, 156, 156);
+}
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+.header img {
+  max-width: 100px;
+}
+#Welcome-Message {
+  font-weight: bold;
+  margin-left: 50px;
+  
+}
+#logout-button button {
+    display: inline-block;
+  color: rgb(22, 2, 2);
+  border: solid black 1px;
+  cursor: pointer;
+ 
+  margin-left: 40px;
+}
+
+
+#order-maker button {
+ 
+  background-color: rosybrown;
+  color: white;
+   
+
+}
+#merged {
+  font-weight: bold;
+  text-align: right;
+}
+.quality{
+    border:  solid black 2px ;
+    padding: 5px;
+    margin: 5px;
+   
+  
+}
